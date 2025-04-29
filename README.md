@@ -1,3 +1,3 @@
-# githubTest_2
+# Read ME
 
-This is also a test repo. Nothing here.
+This repository serves as my test environment for self-learning exercises. It is intended for educational purposes and can be utilized for your own learning endeavors. Feel free to use. ;)
